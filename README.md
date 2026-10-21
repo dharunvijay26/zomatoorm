@@ -1,4 +1,4 @@
-# Ex02 Django ORM Web Application
+<img width="1917" height="1078" alt="Screenshot 2026-10-15 214543" src="https://github.com/user-attachments/assets/976f90e5-b6cf-45d8-94d5-7aee28d591cc" /># Ex02 Django ORM Web Application
 ## Date: 
 
 ## AIM
@@ -55,7 +55,8 @@ Execute Django admin using localhost and create details for 10 entries
 
 
 ## OUTPUT
-![alt text](<Screenshot 2026-10-15 214543.png>)
+[Uploading Screenshot 2026-10-15 214543.png…]()
+
 
 
 ## RESULT
